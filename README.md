@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nistha Thapa</h1>
 <h3 align="center">A passionate UI/UX and Data Science Enthusiast from Nepal.</h3>
 
-<img align= "right" alt="coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
+<img align= "right" alt="coding" width="300" height="300" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
 - 🌱 I’m currently learning **Pandas, NumPy, and Tableau**
 
