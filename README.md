@@ -1,4 +1,3 @@
-![logo](https://github.com/nistha-09/nistha-09/blob/main/Nistha%20Thapa.png)
 <h1 align="center">Hi 👋, I'm Nistha Thapa</h1>
 <h3 align="center">A passionate UI/UX and Data Science Enthusiast from Nepal.</h3>
 
